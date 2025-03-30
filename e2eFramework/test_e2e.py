@@ -1,5 +1,4 @@
 import json
-
 import pytest
 
 from pageObjects.login import LoginPage
