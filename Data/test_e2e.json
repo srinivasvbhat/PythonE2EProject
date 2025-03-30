@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "userEmail": "rahulshettyacademy",
+      "userPassword": "learning",
+      "keywordToSearchCountry": "ind",
+      "countryToSelect": "India",
+      "prod_name": "Nokia Edge"
+    },
+    {
+      "userEmail": "rahulshettyacademy",
+      "userPassword": "learning",
+      "keywordToSearchCountry": "un",
+      "countryToSelect": "United Kingdom",
+      "prod_name": "Blackberry"
+    },
+    {
+      "userEmail": "rahulshettyacademy",
+      "userPassword": "learning",
+      "keywordToSearchCountry": "ca",
+      "countryToSelect": "United States of America",
+      "prod_name": "Samsung Note 8"
+    }
+  ]
+}
